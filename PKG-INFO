@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: linalgnorm
+Version: 1.0
+Summary: This is a sample python package for encapsulating custom tranforms from scikit-learn into Watson Machine Learning
+Home-page: https://github.com/achermidabr/sklearn_transforms_achermida/
+Author: Alexandre Hermida
+Author-email: achermida@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
